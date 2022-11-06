@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402411470525",
+    "project_id": "trainway-9a85a",
+    "storage_bucket": "trainway-9a85a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402411470525:android:142f627da74652f77dc1d4",
+        "android_client_info": {
+          "package_name": "com.example.trainway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402411470525-ikifvs1otg7ida7tudb4njppce2l81fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQSzRgVDFZEGZes0c1SUeQYV1KmE9DfJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402411470525-ikifvs1otg7ida7tudb4njppce2l81fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
